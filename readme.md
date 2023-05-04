@@ -1,6 +1,14 @@
 
 ## Environments
-torch 1.10.2+cu113. python 3.7.9. tensorboardx 2.4. tensorboard 2.6.0
+RTX3090
+
+torch 1.10.2+cu113. 
+
+python 3.7.9. 
+
+tensorboardx 2.4. 
+
+tensorboard 2.6.0
 ## Datasets
 Beer Reviews: you can get it [here](http://people.csail.mit.edu/taolei/beer/). Then place it in the ./data/beer directory.  
 
