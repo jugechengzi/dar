@@ -32,10 +32,7 @@ Rationale
 rationale dataset : recall:0.8732 precision:0.9988 f1-score:0.9318 accuracy:0.8739  
 
 
-The F1 score corresponding to Table 3 is in the line "The annotation performance: sparsity: 18.5996, precision: 81.4948, recall: 81.8705, f1: 81.6822". It's a little higher than the result in Table 3, because we report the average results of five experiments.
-
-
-
+The F1 score corresponding to Table 3 is in the line "The annotation performance: sparsity: 18.5996, precision: 81.4948, recall: 81.8705, f1: 81.6822". 
 
 
 
