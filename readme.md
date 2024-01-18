@@ -1,4 +1,6 @@
 
+**If the code has any bugs, please open an issue. We will be grateful for your help.**
+
 ## Environments
 torch 1.10.2+cu113. python 3.7.9.
 ## Datasets
