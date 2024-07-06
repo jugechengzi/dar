@@ -1,6 +1,8 @@
 
 **If the code has any bugs, please open an issue. We will be grateful for your help.**
 
+You can also refer to our team's other complementary work in this series：[FR (NeurIPS2022)](https://arxiv.org/abs/2209.08285), [DR (KDD 2023)](https://dl.acm.org/doi/abs/10.1145/3580305.3599299), [MGR (ACL 2023)](https://arxiv.org/abs/2305.04492), [MCD (NeurIPS 2023)](https://arxiv.org/abs/2309.13391), [DAR (ICDE 2024)](https://arxiv.org/abs/2312.04103).
+
 ## Environments
 torch 1.10.2+cu113. python 3.7.9.
 ## Datasets
