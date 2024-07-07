@@ -1,3 +1,4 @@
+This repo contains Pytorch implementation of [DAR (ICDE 2024)](https://arxiv.org/abs/2312.04103).
 
 **If the code has any bugs, please open an issue. We will be grateful for your help.**
 
